@@ -1,0 +1,146 @@
+[
+  {
+    "Id": "bbd2c02d-1b52-413c-ba9b-cff35bdbc150",
+    "Title": "Data Management 365 at ExpoMed fair in Istanbul",
+    "Description": null,
+    "Reference": "https://datamanagement365.com/blog/news/data-management-365-at-expomed-fair-in-istanbul/data-management-365-at-expomed-fair-in-istanbul.html",
+    "Type": "News",
+    "Date": "24 March 2023",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/1a4/370_247_2821712164bebe8964a3cb4f91f48bb72/1a4738d247de8b1041eeb513bfb77ef5.png"
+  },
+  {
+    "Id": "9d1a69ee-949b-4897-b663-c131a12c1d86",
+    "Title": "EDC cross-platform transfer of eCRF structure and study data migration",
+    "Description": "To understand the reasons why our clients decided to move their studies from another EDC system to MainEDC™, we have asked those who did so over the past year",
+    "Reference": "https://datamanagement365.com/blog/news/edc-cross-platform-transfer-of-ecrf-structure-and-study-data-migration/edc-cross-platform-transfer-of-ecrf-structure-and-study-data-migration.html",
+    "Type": "News",
+    "Date": "16 March 2023",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/8b7/370_247_2821712164bebe8964a3cb4f91f48bb72/8b71e172cce92c0d154210949d1cbc66.png"
+  },
+  {
+    "Id": "d8170afd-1737-471e-9732-17b04a33d228",
+    "Title": "Publisher: a new component of the MainEDC™ system",
+    "Description": "DM365 present an automatic project publishers built into the MainEDC™, which allows users to control the process of eCRF creation and transfer them",
+    "Reference": "https://datamanagement365.com/blog/news/publisher-a-new-component-of-the-mainedc-system/publisher-a-new-component-of-the-mainedc-system.html",
+    "Type": "News",
+    "Date": "12 February 2023",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/e68/370_247_2821712164bebe8964a3cb4f91f48bb72/e6844d1aa0720cd0ef838c939d6d1bda.jpg"
+  },
+  {
+    "Id": "e3da7db7-e82f-45ca-82e2-5dcf73638ee2",
+    "Title": "5 Ways to Implement ePRO (electronic Patient Reported Outcome) in Your Clinical Trials",
+    "Description": null,
+    "Reference": "https://datamanagement365.com/blog/news/5-ways-to-implement-epro-electronic-patient-reported-outcome-in-your-clinical-trials/5-ways-to-implement-epro-electronic-patient-reported-outcome-in-your-clinical-trials.html",
+    "Type": "News",
+    "Date": "01 February 2023",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/ef2/370_247_2821712164bebe8964a3cb4f91f48bb72/ef203d01b851d61b6656c8048b9cad91.jpg"
+  },
+  {
+    "Id": "3a08e2b7-c8af-4dc6-a327-3c691bb40bd5",
+    "Title": "MainEDC™ ePRO",
+    "Description": "Decentralized clinical trials, registries, marketing and feasibility projects with the new MainEDC™ ePRO – enjoy two interfaces (phone app and mobile-friendly webpage) working simultaneously with the integrated EDC / IWRS and Drug Supply system!",
+    "Reference": "https://datamanagement365.com/blog/news/mainedc-epro/mainedc-epro.html",
+    "Type": "News",
+    "Date": "30 November 2022",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/c4f/370_247_2821712164bebe8964a3cb4f91f48bb72/c4fd56157597159fa188d79b7da011dc.png"
+  },
+  {
+    "Id": "a384c36f-7d5e-4cc6-b453-47ac4222f6c4",
+    "Title": "Creative Pharma from Greece about MainEDC",
+    "Description": null,
+    "Reference": "https://datamanagement365.com/blog/news/creative-pharma-from-greece-about-mainedc-/creative-pharma-from-greece-about-mainedc-.html",
+    "Type": "News",
+    "Date": "08 September 2022",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/3b3/370_247_2821712164bebe8964a3cb4f91f48bb72/3b3a5e7bb90cb5de512812988ae3519e.png"
+  },
+  {
+    "Id": "0828eab1-44ae-4271-9206-5e5141077f8e",
+    "Title": "Data Management 365 MainEDC™ was awarded with the Summer 2022 Top Performer Award by SourceForge",
+    "Description": "MainEDC™is proud to be a winner of the Top Performer award from SourceForge, the world’s largest software reviews and comparison website",
+    "Reference": "https://datamanagement365.com/blog/news/on-july-19th-2022-mainedc-was-awarded-with-the-summer-2022-top-performer-award-by-sourceforge/on-july-19th-2022-mainedc-was-awarded-with-the-summer-2022-top-performer-award-by-sourceforge.html",
+    "Type": "News",
+    "Date": "30 August 2022",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/9b0/370_189_1821712164bebe8964a3cb4f91f48bb72/9b00de2156e81e72e6c9794886410951.png"
+  },
+  {
+    "Id": "1f8e9416-63f6-4fd4-a77e-12208c94aecb",
+    "Title": "Subject Unblinding in Clinical Trials. MainEDC Story of Experience",
+    "Description": "In blinded trials, there are some situations where planned or unplanned unblinding is required. We decided to have a look at unblinding processes and share some thoughts from our experience.",
+    "Reference": "https://datamanagement365.com/blog/news/subject-unblinding-in-clinical-trials-mainedc-story-of-experience/subject-unblinding-in-clinical-trials-mainedc-story-of-experience.html",
+    "Type": "News",
+    "Date": "08 July 2022",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/179/370_247_1821712164bebe8964a3cb4f91f48bb72/179c84604c5fcf26dfaa7bcfe0eea679.png"
+  },
+  {
+    "Id": "8ba9a760-db59-4e16-b8f2-9d26863bc82b",
+    "Title": "Cost reduction of human error in EDC business processes with electronic Data Change Requests",
+    "Description": "There is no need to say that every EDC business process could suffer from human error. Unfortunately, there is no way to prevent it, but there are ways to improve the process of data corrections.",
+    "Reference": "https://datamanagement365.com/blog/news/cost-reduction-of-human-error-in-edc-business-processes-with-automated-electronic-data-change-reques/cost-reduction-of-human-error-in-edc-business-processes-with-automated-electronic-data-change-reques.html",
+    "Type": "News",
+    "Date": "20 May 2022",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/33a/370_247_2821712164bebe8964a3cb4f91f48bb72/33a81f8fb3ab63070112c89212749acd.jpg"
+  },
+  {
+    "Id": "0894a23d-ffea-479a-ada3-c4db090e784e",
+    "Title": "Data migration in clinical trials",
+    "Description": "We are excited to share our accumulated experience in the migration of data and eCRF structure in clinical trials",
+    "Reference": "https://datamanagement365.com/blog/news/data-migration-in-clinical-trials/data-migration-in-clinical-trials.html",
+    "Type": "News",
+    "Date": "28 February 2022",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/7b1/370_247_2821712164bebe8964a3cb4f91f48bb72/7b1e3cab56f355473a1d509c3aafe69b.jpg"
+  },
+  {
+    "Id": "5abace1c-f9e3-4db5-b1c5-0b9165d9892e",
+    "Title": "Save up to 75% of clinical monitoring costs",
+    "Description": "Save up to 75% of clinical monitoring costs",
+    "Reference": "https://datamanagement365.com/blog/news/save-up-to-75-of-clinical-monitoring-costs/save-up-to-75-of-clinical-monitoring-costs.html",
+    "Type": "News",
+    "Date": "11 December 2021",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/256/370_247_2821712164bebe8964a3cb4f91f48bb72/256626680d2e60e498551b67560c2a6c.jpg"
+  },
+  {
+    "Id": "f9d66a0d-6b60-4b7a-8a97-bf25e525da19",
+    "Title": "We left Data Management",
+    "Description": "Data Management 365 is pleased to announce the evolutionary company transfer to Data Science standards.",
+    "Reference": "https://datamanagement365.com/blog/news/data-science/data-science.html",
+    "Type": "News",
+    "Date": "09 September 2021",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/144/370_247_2821712164bebe8964a3cb4f91f48bb72/14413b517e8a06c77ab72c998373747e.jpg"
+  },
+  {
+    "Id": "1d535daf-f421-434e-8bb0-828dd761ca40",
+    "Title": "MedDRA and WHODrug up-versioning: MainEDC™ helps with the coding in long-lasting studies",
+    "Description": "Data managers all over the world come across this question: how to handle the codes already assigned to eCRF terms when the next MedDRA / WHODrug version becomes available. Here is the answer",
+    "Reference": "https://datamanagement365.com/blog/news/meddra-and-whodrug-up-versioning-mainedc-helps-with-the-coding-in-long-lasting-studies/meddra-and-whodrug-up-versioning-mainedc-helps-with-the-coding-in-long-lasting-studies.html",
+    "Type": "News",
+    "Date": "26 June 2021",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/b9c/370_247_2821712164bebe8964a3cb4f91f48bb72/b9c2468991646d2da36562c44735d28c.jpg"
+  },
+  {
+    "Id": "735b89b9-36c9-4a82-8b5b-010234fe284e",
+    "Title": "Data Management 365 in The Lancet journal",
+    "Description": "The most cited medical journal in the world, The Lancet, published an article featuring DM 365 as the provider of the electronic platform for one of the largest clinical trials ever conducted.",
+    "Reference": "https://datamanagement365.com/blog/news/data-management-365-in-the-lancet-journal/data-management-365-in-the-lancet-journal.html",
+    "Type": "News",
+    "Date": "03 March 2021",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/ae7/370_247_2821712164bebe8964a3cb4f91f48bb72/ae74eb5b7652f5e845825966591f89eb.png"
+  },
+  {
+    "Id": "a2871b4b-7416-4961-9bbe-0f8cdde7c306",
+    "Title": "MainEDC™ RBM",
+    "Description": "MainEDC™ supports Risk Based Monitoring processes in clinical trials",
+    "Reference": "https://datamanagement365.com/blog/news/mainedc-rbm/mainedc-rbm.html",
+    "Type": "News",
+    "Date": "21 December 2020",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/c51/370_247_2821712164bebe8964a3cb4f91f48bb72/c516b91aab84ec21421bb429236d6445.png"
+  },
+  {
+    "Id": "a6506f85-b362-4ff8-b6ae-fc8d68f0d4e8",
+    "Title": "LOINC in MainEDC™",
+    "Description": "Data Management 365 journey of implementing LOINC in MainEDC™",
+    "Reference": "https://datamanagement365.com/blog/news/loinc-implementation-in-mainedc/loinc-implementation-in-mainedc.html",
+    "Type": "News",
+    "Date": "07 September 2020",
+    "ImagePath": "https://datamanagement365.com/upload/resize_cache/iblock/493/370_247_2821712164bebe8964a3cb4f91f48bb72/4934622b53d0fad641f626e5baa617c2.png"
+  }
+]
